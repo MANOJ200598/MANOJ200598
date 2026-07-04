@@ -1,4 +1,4 @@
-# Hi, I'm Manoj Sajjan 👋
+# Hi, I'm Manoj Sajjan 
 
 Electrical and Electronics Engineering student at **BMS College of Engineering** with a strong interest in **Backend Development, Cloud Computing, and Scalable Application Development**. I enjoy building backend systems, working with databases, and exploring cloud technologies to design practical and efficient software solutions.
 
