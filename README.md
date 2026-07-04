@@ -5,10 +5,10 @@ Electrical and Electronics Engineering student at **BMS College of Engineering**
 ---
 
 ## About Me
-- 🎓 Pursuing **B.E. in Electrical and Electronics Engineering** at **BMSCE**
-- 💻 Interested in **Java Backend Development, Spring Boot, SQL, and AWS Cloud**
-- 🌱 Currently learning **AWS, Spring Boot, and Data Structures & Algorithms**
-- ⚡ Building projects to strengthen **backend development, cloud deployment, and problem-solving skills**
+-  Pursuing **B.E. in Electrical and Electronics Engineering** at **BMSCE**
+-  Interested in **Java Backend Development, Spring Boot, SQL, and AWS Cloud**
+-  Currently learning **AWS, Spring Boot, and Data Structures & Algorithms**
+-  Building projects to strengthen **backend development, cloud deployment, and problem-solving skills**
 
 ---
 
